@@ -1,8 +1,8 @@
 # Caller ID API
 
-The Caller ID API names the caller and flags spam for one phone number. A carrier shows that result in its own app and sells it as a white-label value-added service (VAS). Subscribers pay for the caller name and the spam warning. The add-on raises average revenue per user (ARPU).
+CallerAPI helps carriers, CPaaS, UCaaS and VoIP providers increase ARPU by offering voice fraud protection to their customers. Get Tier 1 level intelligence, sell it under your own brand, make your users and regulators happy while increasing profits.
 
-One GET returns the business name, a spam verdict, and the complaint evidence. The carrier keeps its own brand on the screen. Get a key in the [dashboard](https://callerapi.com/dashboard). Plans are on the [pricing page](https://callerapi.com/pricing).
+One GET returns the business name, a spam status, and the complaint evidence. The carrier keeps its own brand on the screen. Get a key in the [dashboard](https://callerapi.com/dashboard). Plans are on the [pricing page](https://callerapi.com/pricing).
 
 ## Sell it as a white-label VAS
 
